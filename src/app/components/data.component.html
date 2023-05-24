@@ -1,0 +1,42 @@
+<!-- Show loading indicator or any other UI element -->
+<div *ngIf="(loading$ | async)" class="alert alert-success" role="alert">
+    Loading... (Loading added for testing purpose only...)
+</div>
+
+
+<div *ngIf="error$ | async as error" class="alert alert-danger" role="alert">
+    <div>{{ error }}</div>
+</div>
+
+<!-- <div class="card-columns">
+    <div *ngFor="let item of posts$ | async" class="card bg-light " (click)="viewMore(item.id)">
+        <div class="card-header border-success">{{ (item.title.length>35)? (item.title |
+            slice:0:35)+'..':(item.title) }}</div>
+        <div class="card-body">
+            <h5 class="card-title"></h5>
+            <p class="card-text"> {{ (item.body.length>100)? (item.body | slice:0:100)+'...--':(item.body) }}</p>
+        </div>
+        <div class="card-footer border">
+            <button type="button" class="btn btn-primary">
+                Reactions <span class="badge badge-light">{{item.reactions}}</span>
+                <span class="sr-only">unread messages</span>
+            </button>
+        </div>
+    </div>
+</div> -->
+
+<div class="card-columns">
+    <ng-container  *ngFor="let item of posts$ | async"  > 
+    <div class="card bg-light " (click)="viewMore(item.id)">
+      <div class="card-body"  [style.backgroundColor]="item.headerBackgroundColor">
+        <h5 class="card-title" >{{ (item.title.length>35)? (item.title |
+            slice:0:35)+'..':(item.title) }}</h5>
+        <p class="card-text">{{ (item.body.length>100)? (item.body | slice:0:100)+'...--':(item.body) }}</p>
+      </div>
+      <div *ngIf="item.reactions > 0" class="card-footer"  [style.backgroundColor]="item.backgroundColor">
+        <small class="">Here are {{item.reactions}} reactions from user!</small>
+      </div>
+    </div>
+</ng-container>
+  </div>
+

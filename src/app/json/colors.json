@@ -1,0 +1,1643 @@
+
+[
+    {
+        "name": "INDIANRED",
+        "hex": "#CD5C5C",
+        "rgb": "RGB(205, 92, 92)",
+        "families": [
+            "red",
+            "brown"
+        ],
+        "backgroundColor": "#CD5C5C",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffa9a9"
+    },
+    {
+        "name": "LIGHTCORAL",
+        "hex": "#F08080",
+        "rgb": "RGB(240, 128, 128)",
+        "families": [
+            "red",
+            "pink",
+            "coral",
+            "light"
+        ],
+        "backgroundColor": "#F08080",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffcdcd"
+    },
+    {
+        "name": "SALMON",
+        "hex": "#FA8072",
+        "rgb": "RGB(250, 128, 114)",
+        "families": [
+            "red",
+            "pink",
+            "orange",
+            "salmon"
+        ],
+        "backgroundColor": "#FA8072",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffcdbf"
+    },
+    {
+        "name": "DARKSALMON",
+        "hex": "#E9967A",
+        "rgb": "RGB(233, 150, 122)",
+        "families": [
+            "red",
+            "pink",
+            "orange",
+            "salmon",
+            "dark"
+        ],
+        "backgroundColor": "#E9967A",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffe3c7"
+    },
+    {
+        "name": "LIGHTSALMON",
+        "hex": "#FFA07A",
+        "rgb": "RGB(255, 160, 122)",
+        "families": [
+            "red",
+            "pink",
+            "orange",
+            "salmon",
+            "light"
+        ],
+        "backgroundColor": "#FFA07A",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffedc7"
+    },
+    {
+        "name": "CRIMSON",
+        "hex": "#DC143C",
+        "rgb": "RGB(220, 20, 60)",
+        "families": [
+            "red"
+        ],
+        "backgroundColor": "#DC143C",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ff6189"
+    },
+    {
+        "name": "RED",
+        "hex": "#FF0000",
+        "rgb": "RGB(255, 0, 0)",
+        "families": [
+            "red"
+        ],
+        "backgroundColor": "#FF0000",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ff4d4d"
+    },
+    {
+        "name": "DARKRED",
+        "hex": "#8B0000",
+        "rgb": "RGB(139, 0, 0)",
+        "families": [
+            "red",
+            "dark"
+        ],
+        "backgroundColor": "#8B0000",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#d84d4d"
+    },
+    {
+        "name": "PINK",
+        "hex": "#FFC0CB",
+        "rgb": "RGB(255, 192, 203)",
+        "families": [
+            "pink"
+        ],
+        "backgroundColor": "#FFC0CB",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "LIGHTPINK",
+        "hex": "#FFB6C1",
+        "rgb": "RGB(255, 182, 193)",
+        "families": [
+            "pink",
+            "light"
+        ],
+        "backgroundColor": "#FFB6C1",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "HOTPINK",
+        "hex": "#FF69B4",
+        "rgb": "RGB(255, 105, 180)",
+        "families": [
+            "pink",
+            "hot"
+        ],
+        "backgroundColor": "#FF69B4",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffb6ff"
+    },
+    {
+        "name": "DEEPPINK",
+        "hex": "#FF1493",
+        "rgb": "RGB(255, 20, 147)",
+        "families": [
+            "pink",
+            "deep"
+        ],
+        "backgroundColor": "#FF1493",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ff61e0"
+    },
+    {
+        "name": "MEDIUMVIOLETRED",
+        "hex": "#C71585",
+        "rgb": "RGB(199, 21, 133)",
+        "families": [
+            "pink",
+            "purple",
+            "violet",
+            "medium"
+        ],
+        "backgroundColor": "#C71585",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ff62d2"
+    },
+    {
+        "name": "PALEVIOLETRED",
+        "hex": "#DB7093",
+        "rgb": "RGB(219, 112, 147)",
+        "families": [
+            "pink",
+            "pale",
+            "violet"
+        ],
+        "backgroundColor": "#DB7093",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffbde0"
+    },
+    {
+        "name": "CORAL",
+        "hex": "#FF7F50",
+        "rgb": "RGB(255, 127, 80)",
+        "families": [
+            "orange",
+            "coral"
+        ],
+        "backgroundColor": "#FF7F50",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffcc9d"
+    },
+    {
+        "name": "TOMATO",
+        "hex": "#FF6347",
+        "rgb": "RGB(255, 99, 71",
+        "families": [
+            "orange",
+            "red"
+        ],
+        "backgroundColor": "#FF6347",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffb094"
+    },
+    {
+        "name": "ORANGERED",
+        "hex": "#FF4500",
+        "rgb": "RGB(255, 69, 0)",
+        "families": [
+            "orange",
+            "red"
+        ],
+        "backgroundColor": "#FF4500",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ff924d"
+    },
+    {
+        "name": "DARKORANGE",
+        "hex": "#FF8C00",
+        "rgb": "RGB(255, 140, 0)",
+        "families": [
+            "orange",
+            "dark"
+        ],
+        "backgroundColor": "#FF8C00",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffd94d"
+    },
+    {
+        "name": "ORANGE",
+        "hex": "#FFA500",
+        "rgb": "RGB(255, 165, 0)",
+        "families": [
+            "orange"
+        ],
+        "backgroundColor": "#FFA500",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#fff24d"
+    },
+    {
+        "name": "GOLD",
+        "hex": "#FFD700",
+        "rgb": "RGB(255, 215, 0)",
+        "families": [
+            "yellow"
+        ],
+        "backgroundColor": "#FFD700",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffff4d"
+    },
+    {
+        "name": "YELLOW",
+        "hex": "#FFFF00",
+        "rgb": "RGB(255, 255, 0)",
+        "families": [
+            "yellow"
+        ],
+        "backgroundColor": "#FFFF00",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffff4d"
+    },
+    {
+        "name": "LIGHTYELLOW",
+        "hex": "#FFFFE0",
+        "rgb": "RGB(255, 255, 224)",
+        "families": [
+            "yellow",
+            "light"
+        ],
+        "backgroundColor": "#FFFFE0",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "LEMONCHIFFON",
+        "hex": "#FFFACD",
+        "rgb": "RGB(255, 250, 205)",
+        "families": [
+            "yellow",
+            "lemon"
+        ],
+        "backgroundColor": "#FFFACD",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "LIGHTGOLDENRODYELLOW",
+        "hex": "#FAFAD2",
+        "rgb": "RGB(250, 250, 210)",
+        "families": [
+            "yellow",
+            "light",
+            "goldenrod",
+            "tan"
+        ],
+        "backgroundColor": "#FAFAD2",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "PAPAYAWHIP",
+        "hex": "#FFEFD5",
+        "rgb": "RGB(255, 239, 213)",
+        "families": [
+            "pink",
+            "tan"
+        ],
+        "backgroundColor": "#FFEFD5",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "MOCCASIN",
+        "hex": "#FFE4B5",
+        "rgb": "RGB(255, 228, 181)",
+        "families": [
+            "pink",
+            "tan"
+        ],
+        "backgroundColor": "#FFE4B5",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "PEACHPUFF",
+        "hex": "#FFDAB9",
+        "rgb": "RGB(255, 218, 185)",
+        "families": [
+            "pink",
+            "orange",
+            "peach"
+        ],
+        "backgroundColor": "#FFDAB9",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "PALEGOLDENROD",
+        "hex": "#EEE8AA",
+        "rgb": "RGB(238, 232, 170)",
+        "families": [
+            "yellow",
+            "tan",
+            "pale",
+            "goldenrod"
+        ],
+        "backgroundColor": "#EEE8AA",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#fffff7"
+    },
+    {
+        "name": "KHAKI",
+        "hex": "#F0E68C",
+        "rgb": "RGB(240, 230, 140)",
+        "families": [
+            "yellow",
+            "tan",
+            "khaki"
+        ],
+        "backgroundColor": "#F0E68C",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffd9"
+    },
+    {
+        "name": "DARKKHAKI",
+        "hex": "#BDB76B",
+        "rgb": "RGB(189, 183, 107)",
+        "families": [
+            "yellow",
+            "tan",
+            "khaki",
+            "dark"
+        ],
+        "backgroundColor": "#BDB76B",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffb8"
+    },
+    {
+        "name": "LAVENDER",
+        "hex": "#E6E6FA",
+        "rgb": "RGB(230, 230, 250)",
+        "families": [
+            "purple"
+        ],
+        "backgroundColor": "#E6E6FA",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "THISTLE",
+        "hex": "#D8BFD8",
+        "rgb": "RGB(216, 191, 216)",
+        "families": [
+            "purple"
+        ],
+        "backgroundColor": "#D8BFD8",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "PLUM",
+        "hex": "#DDA0DD",
+        "rgb": "RGB(221, 160, 221)",
+        "families": [
+            "purple"
+        ],
+        "backgroundColor": "#DDA0DD",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffedff"
+    },
+    {
+        "name": "VIOLET",
+        "hex": "#EE82EE",
+        "rgb": "RGB(238, 130, 238)",
+        "families": [
+            "purple",
+            "violet",
+            "pink"
+        ],
+        "backgroundColor": "#EE82EE",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffcfff"
+    },
+    {
+        "name": "ORCHID",
+        "hex": "#DA70D6",
+        "rgb": "RGB(218, 112, 214)",
+        "families": [
+            "purple",
+            "orchid"
+        ],
+        "backgroundColor": "#DA70D6",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffbdff"
+    },
+    {
+        "name": "FUCHSIA",
+        "hex": "#FF00FF",
+        "rgb": "RGB(255, 0, 255)",
+        "families": [
+            "purple",
+            "pink"
+        ],
+        "backgroundColor": "#FF00FF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ff4dff"
+    },
+    {
+        "name": "MAGENTA",
+        "hex": "#FF00FF",
+        "rgb": "RGB(255, 0, 255)",
+        "families": [
+            "purple",
+            "pink",
+            "magenta"
+        ],
+        "backgroundColor": "#FF00FF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ff4dff"
+    },
+    {
+        "name": "MEDIUMORCHID",
+        "hex": "#BA55D3",
+        "rgb": "RGB(186, 85, 211)",
+        "families": [
+            "purple",
+            "orchid",
+            "medium"
+        ],
+        "backgroundColor": "#BA55D3",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffa2ff"
+    },
+    {
+        "name": "MEDIUMPURPLE",
+        "hex": "#9370DB",
+        "rgb": "RGB(147, 112, 219)",
+        "families": [
+            "purple",
+            "medium"
+        ],
+        "backgroundColor": "#9370DB",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#e0bdff"
+    },
+    {
+        "name": "REBECCAPURPLE",
+        "hex": "#663399",
+        "rgb": "RGB(102, 51, 153)",
+        "families": [
+            "purple",
+            "blue"
+        ],
+        "backgroundColor": "#663399",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#b380e6"
+    },
+    {
+        "name": "BLUEVIOLET",
+        "hex": "#8A2BE2",
+        "rgb": "RGB(138, 43, 226)",
+        "families": [
+            "purple",
+            "blue",
+            "violet"
+        ],
+        "backgroundColor": "#8A2BE2",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#d778ff"
+    },
+    {
+        "name": "DARKVIOLET",
+        "hex": "#9400D3",
+        "rgb": "RGB(148, 0, 211)",
+        "families": [
+            "purple",
+            "dark",
+            "violet"
+        ],
+        "backgroundColor": "#9400D3",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#e14dff"
+    },
+    {
+        "name": "DARKORCHID",
+        "hex": "#9932CC",
+        "rgb": "RGB(153, 50, 204)",
+        "families": [
+            "purple",
+            "dark",
+            "orchid"
+        ],
+        "backgroundColor": "#9932CC",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#e67fff"
+    },
+    {
+        "name": "PURPLE",
+        "hex": "#800080",
+        "rgb": "RGB(128, 0, 128)",
+        "families": [
+            "purple"
+        ],
+        "backgroundColor": "#800080",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#cd4dcd"
+    },
+    {
+        "name": "SLATEBLUE",
+        "hex": "#6A5ACD",
+        "rgb": "RGB(106, 90, 205)",
+        "families": [
+            "purple",
+            "blue",
+            "slate"
+        ],
+        "backgroundColor": "#6A5ACD",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#b7a7ff"
+    },
+    {
+        "name": "DARKSLATEBLUE",
+        "hex": "#483D8B",
+        "rgb": "RGB(156 148 211)",
+        "families": [
+            "purple",
+            "blue",
+            "slate",
+            "dark"
+        ],
+        "backgroundColor": "#483D8B",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#958ad8"
+    },
+    {
+        "name": "MEDIUMSLATEBLUE",
+        "hex": "#7B68EE",
+        "rgb": "RGB(123, 104, 238)",
+        "families": [
+            "purple",
+            "blue",
+            "slate",
+            "medium"
+        ],
+        "backgroundColor": "#7B68EE",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#c8b5ff"
+    },
+    {
+        "name": "GREENYELLOW",
+        "hex": "#ADFF2F",
+        "rgb": "RGB(173, 255, 47)",
+        "families": [
+            "green",
+            "yellow"
+        ],
+        "backgroundColor": "#ADFF2F",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#faff7c"
+    },
+    {
+        "name": "CHARTREUSE",
+        "hex": "#7FFF00",
+        "rgb": "RGB(127, 255, 0)",
+        "families": [
+            "green"
+        ],
+        "backgroundColor": "#7FFF00",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ccff4d"
+    },
+    {
+        "name": "LAWNGREEN",
+        "hex": "#7CFC00",
+        "rgb": "RGB(124, 252, 0)",
+        "families": [
+            "green"
+        ],
+        "backgroundColor": "#7CFC00",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#c9ff4d"
+    },
+    {
+        "name": "LIME",
+        "hex": "#00FF00",
+        "rgb": "RGB(0, 255, 0)",
+        "families": [
+            "green"
+        ],
+        "backgroundColor": "#00FF00",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4dff4d"
+    },
+    {
+        "name": "LIMEGREEN",
+        "hex": "#32CD32",
+        "rgb": "RGB(50, 205, 50)",
+        "families": [
+            "green"
+        ],
+        "backgroundColor": "#32CD32",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#7fff7f"
+    },
+    {
+        "name": "PALEGREEN",
+        "hex": "#98FB98",
+        "rgb": "RGB(152, 251, 152)",
+        "families": [
+            "green",
+            "pale"
+        ],
+        "backgroundColor": "#98FB98",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#e5ffe5"
+    },
+    {
+        "name": "LIGHTGREEN",
+        "hex": "#90EE90",
+        "rgb": "RGB(144, 238, 144)",
+        "families": [
+            "green",
+            "light"
+        ],
+        "backgroundColor": "#90EE90",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ddffdd"
+    },
+    {
+        "name": "MEDIUMSPRINGGREEN",
+        "hex": "#00FA9A",
+        "rgb": "RGB(0, 250, 154)",
+        "families": [
+            "green",
+            "medium",
+            "spring"
+        ],
+        "backgroundColor": "#00FA9A",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4dffe7"
+    },
+    {
+        "name": "SPRINGGREEN",
+        "hex": "#00FF7F",
+        "rgb": "RGB(0, 255, 127)",
+        "families": [
+            "green",
+            "spring"
+        ],
+        "backgroundColor": "#00FF7F",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4dffcc"
+    },
+    {
+        "name": "MEDIUMSEAGREEN",
+        "hex": "#3CB371",
+        "rgb": "RGB(60, 179, 113)",
+        "families": [
+            "green",
+            "sea",
+            "medium"
+        ],
+        "backgroundColor": "#3CB371",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#89ffbe"
+    },
+    {
+        "name": "SEAGREEN",
+        "hex": "#2E8B57",
+        "rgb": "RGB(46, 139, 87)",
+        "families": [
+            "green",
+            "sea"
+        ],
+        "backgroundColor": "#2E8B57",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#7bd8a4"
+    },
+    {
+        "name": "FORESTGREEN",
+        "hex": "#228B22",
+        "rgb": "RGB(34, 139, 34)",
+        "families": [
+            "green",
+            "forest"
+        ],
+        "backgroundColor": "#228B22",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#6fd86f"
+    },
+    {
+        "name": "GREEN",
+        "hex": "#008000",
+        "rgb": "RGB(0, 128, 0)",
+        "families": [
+            "green"
+        ],
+        "backgroundColor": "#008000",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4dcd4d"
+    },
+    {
+        "name": "DARKGREEN",
+        "hex": "#006400",
+        "rgb": "RGB(0, 100, 0)",
+        "families": [
+            "green",
+            "dark"
+        ],
+        "backgroundColor": "#006400",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4db14d"
+    },
+    {
+        "name": "YELLOWGREEN",
+        "hex": "#9ACD32",
+        "rgb": "RGB(154, 205, 50)",
+        "families": [
+            "green",
+            "yellow"
+        ],
+        "backgroundColor": "#9ACD32",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#e7ff7f"
+    },
+    {
+        "name": "OLIVEDRAB",
+        "hex": "#6B8E23",
+        "rgb": "RGB(107, 142, 35)",
+        "families": [
+            "green",
+            "olive"
+        ],
+        "backgroundColor": "#6B8E23",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#b8db70"
+    },
+    {
+        "name": "OLIVE",
+        "hex": "#6B8E23",
+        "rgb": "RGB(128, 128, 0)",
+        "families": [
+            "green",
+            "olive"
+        ],
+        "backgroundColor": "#6B8E23",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#b8db70"
+    },
+    {
+        "name": "DARKOLIVEGREEN",
+        "hex": "#556B2F",
+        "rgb": "RGB(85, 107, 47)",
+        "families": [
+            "green",
+            "olive",
+            "dark"
+        ],
+        "backgroundColor": "#556B2F",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#a2b87c"
+    },
+    {
+        "name": "MEDIUMAQUAMARINE",
+        "hex": "#66CDAA",
+        "rgb": "RGB(102, 205, 170)",
+        "families": [
+            "green",
+            "blue",
+            "aquamarine",
+            "medium"
+        ],
+        "backgroundColor": "#66CDAA",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#b3fff7"
+    },
+    {
+        "name": "DARKSEAGREEN",
+        "hex": "#8FBC8B",
+        "rgb": "RGB(143, 188, 139)",
+        "families": [
+            "green",
+            "sea",
+            "dark"
+        ],
+        "backgroundColor": "#8FBC8B",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#dcffd8"
+    },
+    {
+        "name": "LIGHTSEAGREEN",
+        "hex": "#20B2AA",
+        "rgb": "RGB(32, 178, 170)",
+        "families": [
+            "green",
+            "blue",
+            "sea",
+            "light"
+        ],
+        "backgroundColor": "#20B2AA",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#6dfff7"
+    },
+    {
+        "name": "DARKCYAN",
+        "hex": "#008B8B",
+        "rgb": "RGB(0, 139, 139)",
+        "families": [
+            "green",
+            "blue",
+            "cyan",
+            "dark"
+        ],
+        "backgroundColor": "#008B8B",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4dd8d8"
+    },
+    {
+        "name": "TEAL",
+        "hex": "#008080",
+        "rgb": "RGB(0, 128, 128)",
+        "families": [
+            "green",
+            "blue"
+        ],
+        "backgroundColor": "#008080",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4dcdcd"
+    },
+    {
+        "name": "AQUA",
+        "hex": "#00FFFF",
+        "rgb": "RGB(0, 255, 255)",
+        "families": [
+            "blue",
+            "aqua"
+        ],
+        "backgroundColor": "#00FFFF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4dffff"
+    },
+    {
+        "name": "CYAN",
+        "hex": "#00FFFF",
+        "rgb": "RGB(0, 255, 255)",
+        "families": [
+            "blue",
+            "cyan"
+        ],
+        "backgroundColor": "#00FFFF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4dffff"
+    },
+    {
+        "name": "LIGHTCYAN",
+        "hex": "#E0FFFF",
+        "rgb": "RGB(224, 255, 255)",
+        "families": [
+            "blue",
+            "cyan",
+            "light"
+        ],
+        "backgroundColor": "#E0FFFF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "PALETURQUOISE",
+        "hex": "#AFEEEE",
+        "rgb": "RGB(175, 238, 238)",
+        "families": [
+            "blue",
+            "turquoise",
+            "pale"
+        ],
+        "backgroundColor": "#AFEEEE",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#fcffff"
+    },
+    {
+        "name": "AQUAMARINE",
+        "hex": "#7FFFD4",
+        "rgb": "RGB(127, 255, 212)",
+        "families": [
+            "blue",
+            "aquamarine"
+        ],
+        "backgroundColor": "#7FFFD4",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ccffff"
+    },
+    {
+        "name": "TURQUOISE",
+        "hex": "#40E0D0",
+        "rgb": "RGB(64, 224, 208)",
+        "families": [
+            "blue",
+            "turquoise"
+        ],
+        "backgroundColor": "#40E0D0",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#8dffff"
+    },
+    {
+        "name": "MEDIUMTURQUOISE",
+        "hex": "#48D1CC",
+        "rgb": "RGB(72, 209, 204)",
+        "families": [
+            "blue",
+            "turquoise",
+            "medium"
+        ],
+        "backgroundColor": "#48D1CC",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#95ffff"
+    },
+    {
+        "name": "DARKTURQUOISE",
+        "hex": "#00CED1",
+        "rgb": "RGB(0, 206, 209)",
+        "families": [
+            "blue",
+            "turquoise",
+            "dark"
+        ],
+        "backgroundColor": "#00CED1",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4dffff"
+    },
+    {
+        "name": "CADETBLUE",
+        "hex": "#5F9EA0",
+        "rgb": "RGB(95, 158, 160)",
+        "families": [
+            "blue",
+            "gray"
+        ],
+        "backgroundColor": "#5F9EA0",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#acebed"
+    },
+    {
+        "name": "STEELBLUE",
+        "hex": "#4682B4",
+        "rgb": "RGB(70, 130, 180)",
+        "families": [
+            "blue",
+            "steel"
+        ],
+        "backgroundColor": "#4682B4",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#93cfff"
+    },
+    {
+        "name": "LIGHTSTEELBLUE",
+        "hex": "#B0C4DE",
+        "rgb": "RGB(176, 196, 222)",
+        "families": [
+            "blue",
+            "steel",
+            "light"
+        ],
+        "backgroundColor": "#B0C4DE",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#fdffff"
+    },
+    {
+        "name": "POWDERBLUE",
+        "hex": "#B0E0E6",
+        "rgb": "RGB(176, 224, 230)",
+        "families": [
+            "blue"
+        ],
+        "backgroundColor": "#B0E0E6",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#fdffff"
+    },
+    {
+        "name": "LIGHTBLUE",
+        "hex": "#ADD8E6",
+        "rgb": "RGB(173, 216, 230)",
+        "families": [
+            "blue",
+            "light"
+        ],
+        "backgroundColor": "#ADD8E6",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#faffff"
+    },
+    {
+        "name": "SKYBLUE",
+        "hex": "#87CEEB",
+        "rgb": "RGB(135, 206, 235)",
+        "families": [
+            "blue",
+            "sky"
+        ],
+        "backgroundColor": "#87CEEB",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#d4ffff"
+    },
+    {
+        "name": "LIGHTSKYBLUE",
+        "hex": "#87CEFA",
+        "rgb": "RGB(135, 206, 250)",
+        "families": [
+            "blue",
+            "sky",
+            "light"
+        ],
+        "backgroundColor": "#87CEFA",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#d4ffff"
+    },
+    {
+        "name": "DEEPSKYBLUE",
+        "hex": "#00BFFF",
+        "rgb": "RGB(0, 191, 255)",
+        "families": [
+            "blue",
+            "sky",
+            "deep"
+        ],
+        "backgroundColor": "#00BFFF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4dffff"
+    },
+    {
+        "name": "DODGERBLUE",
+        "hex": "#1E90FF",
+        "rgb": "RGB(30, 144, 255)",
+        "families": [
+            "blue"
+        ],
+        "backgroundColor": "#1E90FF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#6bddff"
+    },
+    {
+        "name": "CORNFLOWERBLUE",
+        "hex": "#6495ED",
+        "rgb": "RGB(100, 149, 237)",
+        "families": [
+            "blue"
+        ],
+        "backgroundColor": "#6495ED",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#b1e2ff"
+    },
+    {
+        "name": "ROYALBLUE",
+        "hex": "#4169E1",
+        "rgb": "RGB(65, 105, 225)",
+        "families": [
+            "blue"
+        ],
+        "backgroundColor": "#4169E1",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#8eb6ff"
+    },
+    {
+        "name": "BLUE",
+        "hex": "#0000FF",
+        "rgb": "RGB(0, 0, 255)",
+        "families": [
+            "blue"
+        ],
+        "backgroundColor": "#0000FF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4d4dff"
+    },
+    {
+        "name": "MEDIUMBLUE",
+        "hex": "#0000CD",
+        "rgb": "RGB(0, 0, 205)",
+        "families": [
+            "blue",
+            "medium"
+        ],
+        "backgroundColor": "#0000CD",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4d4dff"
+    },
+    {
+        "name": "DARKBLUE",
+        "hex": "#00008B",
+        "rgb": "RGB(0, 0, 139)",
+        "families": [
+            "blue",
+            "dark"
+        ],
+        "backgroundColor": "#00008B",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4d4dd8"
+    },
+    {
+        "name": "NAVY",
+        "hex": "#00008B",
+        "rgb": "RGB(0, 0, 128)",
+        "families": [
+            "blue",
+            "dark"
+        ],
+        "backgroundColor": "#00008B",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#4d4dd8"
+    },
+    {
+        "name": "CORNSILK",
+        "hex": "#FFF8DC",
+        "rgb": "RGB(255, 248, 220)",
+        "families": [
+            "brown",
+            "tan"
+        ],
+        "backgroundColor": "#FFF8DC",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "BLANCHEDALMOND",
+        "hex": "#FFEBCD",
+        "rgb": "RGB(255, 235, 205)",
+        "families": [
+            "brown",
+            "tan"
+        ],
+        "backgroundColor": "#FFEBCD",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "BISQUE",
+        "hex": "#FFE4C4",
+        "rgb": "RGB(255, 228, 196)",
+        "families": [
+            "brown",
+            "tan"
+        ],
+        "backgroundColor": "#FFE4C4",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "NAVAJOWHITE",
+        "hex": "#FFDEAD",
+        "rgb": "RGB(255, 222, 173)",
+        "families": [
+            "brown",
+            "tan"
+        ],
+        "backgroundColor": "#FFDEAD",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#fffffa"
+    },
+    {
+        "name": "WHEAT",
+        "hex": "#F5DEB3",
+        "rgb": "RGB(245, 222, 179)",
+        "families": [
+            "brown",
+            "tan"
+        ],
+        "backgroundColor": "#F5DEB3",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "BURLYWOOD",
+        "hex": "#DEB887",
+        "rgb": "RGB(222, 184, 135)",
+        "families": [
+            "brown",
+            "tan"
+        ],
+        "backgroundColor": "#DEB887",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffd4"
+    },
+    {
+        "name": "TAN",
+        "hex": "#D2B48C",
+        "rgb": "RGB(210, 180, 140)",
+        "families": [
+            "brown",
+            "tan"
+        ],
+        "backgroundColor": "#D2B48C",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffd9"
+    },
+    {
+        "name": "ROSYBROWN",
+        "hex": "#BC8F8F",
+        "rgb": "RGB(188, 143, 143)",
+        "families": [
+            "brown",
+            "tan"
+        ],
+        "backgroundColor": "#BC8F8F",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffdcdc"
+    },
+    {
+        "name": "SANDYBROWN",
+        "hex": "#F4A460",
+        "rgb": "RGB(244, 164, 96)",
+        "families": [
+            "brown",
+            "orange"
+        ],
+        "backgroundColor": "#F4A460",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#fff1ad"
+    },
+    {
+        "name": "GOLDENROD",
+        "hex": "#DAA520",
+        "rgb": "RGB(218, 165, 32)",
+        "families": [
+            "brown",
+            "goldenrod",
+            "orange"
+        ],
+        "backgroundColor": "#DAA520",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#fff26d"
+    },
+    {
+        "name": "DARKGOLDENROD",
+        "hex": "#B8860B",
+        "rgb": "RGB(184, 134, 11)",
+        "families": [
+            "brown",
+            "orange",
+            "goldenrod",
+            "dark"
+        ],
+        "backgroundColor": "#B8860B",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffd358"
+    },
+    {
+        "name": "PERU",
+        "hex": "#CD853F",
+        "rgb": "RGB(205, 133, 63)",
+        "families": [
+            "brown",
+            "orange"
+        ],
+        "backgroundColor": "#CD853F",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffd28c"
+    },
+    {
+        "name": "CHOCOLATE",
+        "hex": "#D2691E",
+        "rgb": "RGB(210, 105, 30)",
+        "families": [
+            "brown",
+            "orange"
+        ],
+        "backgroundColor": "#D2691E",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffb66b"
+    },
+    {
+        "name": "SADDLEBROWN",
+        "hex": "#8B4513",
+        "rgb": "RGB(139, 69, 19)",
+        "families": [
+            "brown"
+        ],
+        "backgroundColor": "#8B4513",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#d89260"
+    },
+    {
+        "name": "SIENNA",
+        "hex": "#A0522D",
+        "rgb": "RGB(160, 82, 45)",
+        "families": [
+            "brown"
+        ],
+        "backgroundColor": "#A0522D",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ed9f7a"
+    },
+    {
+        "name": "BROWN",
+        "hex": "#A52A2A",
+        "rgb": "RGB(165, 42, 42)",
+        "families": [
+            "brown",
+            "red"
+        ],
+        "backgroundColor": "#A52A2A",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#f27777"
+    },
+    {
+        "name": "MAROON",
+        "hex": "#800000",
+        "rgb": "RGB(128, 0, 0)",
+        "families": [
+            "brown",
+            "red"
+        ],
+        "backgroundColor": "#800000",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#cd4d4d"
+    },
+    {
+        "name": "WHITE",
+        "hex": "#FFFFFF",
+        "rgb": "RGB(255, 255, 255)",
+        "families": [
+            "white"
+        ],
+        "backgroundColor": "#FFFFFF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "SNOW",
+        "hex": "#FFFAFA",
+        "rgb": "RGB(255, 250, 250)",
+        "families": [
+            "white"
+        ],
+        "backgroundColor": "#FFFAFA",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "HONEYDEW",
+        "hex": "#F0FFF0",
+        "rgb": "RGB(240, 255, 240)",
+        "families": [
+            "white"
+        ],
+        "backgroundColor": "#F0FFF0",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "MINTCREAM",
+        "hex": "#F5FFFA",
+        "rgb": "RGB(245, 255, 250)",
+        "families": [
+            "white"
+        ],
+        "backgroundColor": "#F5FFFA",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "AZURE",
+        "hex": "#F0FFFF",
+        "rgb": "RGB(240, 255, 255)",
+        "families": [
+            "white"
+        ],
+        "backgroundColor": "#F0FFFF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "ALICEBLUE",
+        "hex": "#F0F8FF",
+        "rgb": "RGB(240, 248, 255)",
+        "families": [
+            "white"
+        ],
+        "backgroundColor": "#F0F8FF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "GHOSTWHITE",
+        "hex": "#F8F8FF",
+        "rgb": "RGB(248, 248, 255)",
+        "families": [
+            "white"
+        ],
+        "backgroundColor": "#F8F8FF",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "WHITESMOKE",
+        "hex": "#F5F5F5",
+        "rgb": "RGB(245, 245, 245)",
+        "families": [
+            "white"
+        ],
+        "backgroundColor": "#F5F5F5",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "SEASHELL",
+        "hex": "#FFF5EE",
+        "rgb": "RGB(255, 245, 238)",
+        "families": [
+            "white",
+            "pink"
+        ],
+        "backgroundColor": "#FFF5EE",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "BEIGE",
+        "hex": "#F5F5DC",
+        "rgb": "RGB(245, 245, 220)",
+        "families": [
+            "white",
+            "tan"
+        ],
+        "backgroundColor": "#F5F5DC",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "OLDLACE",
+        "hex": "#FDF5E6",
+        "rgb": "RGB(253, 245, 230)",
+        "families": [
+            "white",
+            "tan"
+        ],
+        "backgroundColor": "#FDF5E6",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "FLORALWHITE",
+        "hex": "#FDF5E6",
+        "rgb": "RGB(253, 245, 230)",
+        "families": [
+            "white",
+            "tan"
+        ],
+        "backgroundColor": "#FDF5E6",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "IVORY",
+        "hex": "#FFFFF0",
+        "rgb": "RGB(255, 255, 240)",
+        "families": [
+            "white",
+            "tan"
+        ],
+        "backgroundColor": "#FFFFF0",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "ANTIQUEWHITE",
+        "hex": "#FAEBD7",
+        "rgb": "RGB(250, 235, 215)",
+        "families": [
+            "white",
+            "tan"
+        ],
+        "backgroundColor": "#FAEBD7",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "LINEN",
+        "hex": "#FAF0E6",
+        "rgb": "RGB(250, 240, 230)",
+        "families": [
+            "white",
+            "tan"
+        ],
+        "backgroundColor": "#FAF0E6",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "LAVENDERBLUSH",
+        "hex": "#FFF0F5",
+        "rgb": "RGB(255, 240, 245)",
+        "families": [
+            "white",
+            "lavender",
+            "pink"
+        ],
+        "backgroundColor": "#FFF0F5",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "MISTYROSE",
+        "hex": "#FFE4E1",
+        "rgb": "RGB(255, 228, 225)",
+        "families": [
+            "white",
+            "pink"
+        ],
+        "backgroundColor": "#FFE4E1",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "GAINSBORO",
+        "hex": "#DCDCDC",
+        "rgb": "RGB(220, 220, 220)",
+        "families": [
+            "gray"
+        ],
+        "backgroundColor": "#DCDCDC",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "LIGHTGRAY",
+        "hex": "#D3D3D3",
+        "rgb": "RGB(211, 211, 211)",
+        "families": [
+            "gray",
+            "light"
+        ],
+        "backgroundColor": "#D3D3D3",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "SILVER",
+        "hex": "#C0C0C0",
+        "rgb": "RGB(192, 192, 192)",
+        "families": [
+            "gray"
+        ],
+        "backgroundColor": "#C0C0C0",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#ffffff"
+    },
+    {
+        "name": "DARKGRAY",
+        "hex": "#A9A9A9",
+        "rgb": "RGB(169, 169, 169)",
+        "families": [
+            "gray",
+            "dark"
+        ],
+        "backgroundColor": "#A9A9A9",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#f6f6f6"
+    },
+    {
+        "name": "GRAY",
+        "hex": "#808080",
+        "rgb": "RGB(128, 128, 128)",
+        "families": [
+            "gray"
+        ],
+        "backgroundColor": "#808080",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#cdcdcd"
+    },
+    {
+        "name": "DIMGRAY",
+        "hex": "#696969",
+        "rgb": "RGB(105, 105, 105)",
+        "families": [
+            "gray"
+        ],
+        "backgroundColor": "#696969",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#b6b6b6"
+    },
+    {
+        "name": "LIGHTSLATEGRAY",
+        "hex": "#778899",
+        "rgb": "RGB(119, 136, 153)",
+        "families": [
+            "gray",
+            "light",
+            "slate"
+        ],
+        "backgroundColor": "#778899",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#c4d5e6"
+    },
+    {
+        "name": "SLATEGRAY",
+        "hex": "#708090",
+        "rgb": "RGB(112, 128, 144)",
+        "families": [
+            "gray",
+            "slate"
+        ],
+        "backgroundColor": "#708090",
+        "fontColor": "#FFFFFF",
+        "headerBackgroundColor": "#bdcddd"
+    }
+]
